@@ -1,7 +1,4 @@
-@Everyone on this board  figured out how to use git, added mockups for levels, character, and music
-
+figured out how to use git, added mockups for levels, character, and music
 pushed platform code to github
-Mateo
-
-@Kavish Dhar
 added music
+This meeting happened on Febuary 8th, 2025
