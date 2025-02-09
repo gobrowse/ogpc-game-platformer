@@ -1,0 +1,5 @@
+We decided on a platformer game for today. We made the Google Doc for OGPC, and I recorded the meeting with open audio, which recorded my screen. We made the game portfolio google doc, and Lucia is making the graphics.
+Lucia is using Piskel for the art, and Kavish is using Bandlab
+I also made a GitHub repo for this project
+next time we will present the game mechanics. This meeting happened on Jan 26, 2025.
+
