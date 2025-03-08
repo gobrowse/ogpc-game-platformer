@@ -8,9 +8,15 @@ canvas = Canvas(tk, width=500, height=400, bd=0, highlightthickness=0)
 canvas.pack()
 tk.resizable(0,0)
 tk.wm_attributes("-topmost",1)
-tk.title("OGPC Game")
+tk.title("VERY GOOD GAME! Game")
 
-my_ladder = graphics.Ladder(canvas,0,0,60,50,4,5,'red')
-my_platform = graphics.Platform(canvas,150,140,300,200,'peru')
+hero = graphics_ogpc.MainKid(canvas,0,390)
+my_ladder = graphics_ogpc.Ladder(canvas,250,340,280,390,4,5,'red')
+my_platform = graphics_ogpc.Platform(canvas,0,390,500,400,'peru')
 
-tk.update()
+while True:
+    hero.draw()
+    tk.update_idletasks()
+    tk.update()
+    time.sleep(0.0001)
+    
