@@ -1,7 +1,7 @@
 from tkinter import *
 import random
 import time
-import graphics-ogpc
+import graphics_ogpc
 
 tk = Tk()
 canvas = Canvas(tk, width=500, height=400, bd=0, highlightthickness=0)
