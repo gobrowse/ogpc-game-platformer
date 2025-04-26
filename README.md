@@ -19,3 +19,5 @@ You can play the game here:
 **Game Engine**
 
 We used Gandi IDE (https://www.cocrea.world/gandi) to make this code. We did not use scratch (scratch.mit.edu) becouse it was harder to use as a team, and gandi has built in collaboration feautres to make it faster for our team to work together.
+ 
+ **Website:** Go to https://ogpc-2024-2025.readthedocs.io/en/latest/index.html for latest
